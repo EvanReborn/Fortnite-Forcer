@@ -2,11 +2,30 @@
 
 A easy to use anti-cheat switcher for Fortnite.
 
-## Installation
+## Usage
 
 - Rename the original FortniteLauncher.exe to 'Original.exe' in the Win64 folder
-  (C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64 for most)
 - Move the FortniteLauncher.exe from the project to the Win64 folder
+- Launch through EpicGamesLauncher
+
+## How It Works
+
+The modified launcher intercepts arguments from EpicGamesLauncher and generates new arguments that pertain to a specific anti-cheat
+```cs
+_antiCheat = new Process
+{
+  StartInfo =
+  {
+  FileName               = EAC_EXECUTABLE,
+  Arguments              = $"{formattedArgs} -nobe -fltoken=none",
+  RedirectStandardOutput = true,
+  RedirectStandardError  = true,
+  UseShellExecute        = false
+  }
+};
+```
+
+## Known Issues
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
