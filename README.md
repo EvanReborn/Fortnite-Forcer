@@ -6,7 +6,7 @@ A easy to use anti-cheat switcher for Fortnite.
 
 - Rename the original FortniteLauncher.exe to 'Original.exe' in the Win64 folder
 - Move the FortniteLauncher.exe from the project to the Win64 folder
-- Launch through EpicGamesLauncher
+- Launch through [EpicGamesLauncher](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi?productName=unrealtournament)
 
 ## How It Works
 
