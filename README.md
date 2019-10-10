@@ -10,22 +10,25 @@ A easy to use anti-cheat switcher for Fortnite.
 
 ## How It Works
 
-The modified launcher intercepts arguments from EpicGamesLauncher and generates new arguments that pertain to a specific anti-cheat
+The modified launcher intercepts arguments from EpicGamesLauncher and generates new arguments that pertain to a specific anti-cheat.
 ```cs
 _antiCheat = new Process
 {
   StartInfo =
   {
-  FileName               = EAC_EXECUTABLE,
-  Arguments              = $"{formattedArgs} -nobe -fltoken=none",
-  RedirectStandardOutput = true,
-  RedirectStandardError  = true,
-  UseShellExecute        = false
+    FileName               = EAC_EXECUTABLE,
+    Arguments              = $"{formattedArgs} -nobe -fltoken=none",
+    RedirectStandardOutput = true,
+    RedirectStandardError  = true,
+    UseShellExecute        = false
   }
 };
 ```
 
 ## Known Issues
+
+- Every Fortnite update, Epic updates the **-fltoken** arguments and changes the way tokens are generated. The current tokens supplied will not work next update, ```Evan#3797``` on discord will teach you how to get the latest tokens.
+- Detection is a problem that has been dealth with, the launcher will swap itself out with the Original.exe at runtime but there are other ways Epic could detect it.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
