@@ -17,10 +17,7 @@ _antiCheat = new Process
   StartInfo =
   {
     FileName               = EAC_EXECUTABLE,
-    Arguments              = $"{formattedArgs} -nobe -fltoken=none",
-    RedirectStandardOutput = true,
-    RedirectStandardError  = true,
-    UseShellExecute        = false
+    Arguments              = $"{formattedArgs} -nobe -fromfl=eac -fltoken={EAC_TOKEN}"
   }
 };
 ```
