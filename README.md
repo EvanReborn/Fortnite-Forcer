@@ -27,3 +27,7 @@ _antiCheat = new Process
 
 - Every Fortnite update, Epic updates the **-fltoken** arguments and changes the way tokens are generated. The current tokens supplied will not work next update, ```Evan#3797``` on discord will teach you how to get the latest tokens.
 - If the runtime file swap fails or Epic adds some sort of new detection for this it will result in a game **kick**, but not a **ban**.
+
+## Credits
+
+**Evan#3797** is the sole creator and owner of this project.
