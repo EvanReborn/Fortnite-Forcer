@@ -2,6 +2,9 @@
 
 A easy to use anti-cheat switcher for Fortnite.
 
+##
+**If you get client failed to register error you have to update tokens!**
+
 ## Usage
 
 - Rename the original FortniteLauncher.exe to 'Original.exe' in the Win64 folder
