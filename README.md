@@ -4,7 +4,7 @@ A easy to use anti-cheat switcher for Fortnite.
 
 **Evan#3797** is the sole creator and owner of this project.
 
-**If you get client failed to register error you have to update tokens!**
+**If you get client failed to register error you have to update tokens! (I will update for Chapter 2 soon)**
 
 ## Usage
 
