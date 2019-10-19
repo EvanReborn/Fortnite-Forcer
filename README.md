@@ -1,10 +1,10 @@
-# Fortnite Forcer (I will update for Chapter 2 soon)
+# Fortnite Forcer (Patched in Chapter 2!)
 
 A easy to use anti-cheat switcher for Fortnite.
 
 **Evan#3797** is the sole creator and owner of this project.
 
-**If you get client failed to register error you have to update tokens!**
+**If you really need a forcer DM me on discord for a private build for chapter 2!**
 
 ## Usage
 
