@@ -4,8 +4,6 @@ A easy to use anti-cheat switcher for Fortnite.
 
 **Evan#3797** is the sole creator and owner of this project.
 
-**If you really need a forcer DM me on discord for a private build for chapter 2!**
-
 ## Usage
 
 - Rename the original FortniteLauncher.exe to 'Original.exe' in the Win64 folder
