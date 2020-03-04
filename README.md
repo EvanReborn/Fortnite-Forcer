@@ -1,4 +1,4 @@
-# Fortnite Forcer (Patched in Chapter 2!)
+# Fortnite Forcer
 
 A easy to use anti-cheat switcher for Fortnite.
 
