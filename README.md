@@ -2,7 +2,7 @@
 
 An easy to use anti-cheat switcher for Fortnite.
 
-**Evan#3797** is the sole creator and owner of this project.
+**Evan#5948** is the sole creator and owner of this project.
 
 ## Usage
 
