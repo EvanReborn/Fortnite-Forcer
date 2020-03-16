@@ -1,6 +1,6 @@
 # Fortnite Forcer
 
-A easy to use anti-cheat switcher for Fortnite.
+An easy to use anti-cheat switcher for Fortnite.
 
 **Evan#3797** is the sole creator and owner of this project.
 
