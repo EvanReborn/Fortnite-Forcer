@@ -2,7 +2,7 @@
 
 An easy to use anti-cheat switcher for Fortnite.
 
-**Sensuret#0001** is the sole creator and owner of this project.
+**Ezxium#0001** is the sole creator and owner of this project.
 
 ## Usage
 
